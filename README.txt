@@ -1,7 +1,7 @@
-1000 CREATIVE WEB PROJECTS
+https://htmlcssjs-mu.vercel.app/
 ==========================
 
-WHAT THIS IS
+
 1000 independent front-end concepts. Each folder under projects/ is a complete,
 standalone mini-site with its own specialty, layout, visual system and working
 interface. No framework, no build step, no dependencies.
